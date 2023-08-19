@@ -1,2 +1,0 @@
-FROM whyour/qinglong:latest
-
